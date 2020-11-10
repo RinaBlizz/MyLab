@@ -1,0 +1,15 @@
+C:\Users\farga\source\repos\OperSwitch2\OperSwitch2\bin\Debug\OperSwitch2.exe.config
+C:\Users\farga\source\repos\OperSwitch2\OperSwitch2\bin\Debug\OperSwitch2.exe
+C:\Users\farga\source\repos\OperSwitch2\OperSwitch2\bin\Debug\OperSwitch2.pdb
+C:\Users\farga\source\repos\OperSwitch2\OperSwitch2\obj\Debug\OperSwitch2.csprojAssemblyReference.cache
+C:\Users\farga\source\repos\OperSwitch2\OperSwitch2\obj\Debug\MainWindow.g.cs
+C:\Users\farga\source\repos\OperSwitch2\OperSwitch2\obj\Debug\App.g.cs
+C:\Users\farga\source\repos\OperSwitch2\OperSwitch2\obj\Debug\OperSwitch2_MarkupCompile.cache
+C:\Users\farga\source\repos\OperSwitch2\OperSwitch2\obj\Debug\OperSwitch2_MarkupCompile.lref
+C:\Users\farga\source\repos\OperSwitch2\OperSwitch2\obj\Debug\MainWindow.baml
+C:\Users\farga\source\repos\OperSwitch2\OperSwitch2\obj\Debug\OperSwitch2.g.resources
+C:\Users\farga\source\repos\OperSwitch2\OperSwitch2\obj\Debug\OperSwitch2.Properties.Resources.resources
+C:\Users\farga\source\repos\OperSwitch2\OperSwitch2\obj\Debug\OperSwitch2.csproj.GenerateResource.cache
+C:\Users\farga\source\repos\OperSwitch2\OperSwitch2\obj\Debug\OperSwitch2.csproj.CoreCompileInputs.cache
+C:\Users\farga\source\repos\OperSwitch2\OperSwitch2\obj\Debug\OperSwitch2.exe
+C:\Users\farga\source\repos\OperSwitch2\OperSwitch2\obj\Debug\OperSwitch2.pdb
